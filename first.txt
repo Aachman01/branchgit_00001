@@ -1,1 +1,1 @@
-hello this is the initial commit
+hello this is the initial commit.this my friends is commit 2.
